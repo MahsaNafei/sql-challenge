@@ -1,15 +1,15 @@
 # sql-challenge
 
 
-### Employee Database SQL Scripts
+#### Employee Database SQL Scripts
 
 In this repository, you will find SQL scripts for creating and querying an employee database. These scripts are designed for managing employee-related data and performing various queries on the database.
 
-### Source of the Code
+#### Source of the Code
 
 The SQL scripts in this repository were developed for an assignment related to an employee database. The scripts include the creation of tables and several SQL queries to retrieve specific information from the database.
 
-# Script Overview
+## Script Overview
 
 ### Data Modeling
 Make an ERD with Quick Database Diagrams after inspecting the CSVs.
