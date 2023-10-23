@@ -1,24 +1,24 @@
 # sql-challenge
-sql-challenge
 
-# Employee Database SQL Scripts
+
+## Employee Database SQL Scripts
 
 In this repository, you will find SQL scripts for creating and querying an employee database. These scripts are designed for managing employee-related data and performing various queries on the database.
 
-# Source of the Code
+## Source of the Code
 
 The SQL scripts in this repository were developed for an assignment related to an employee database. The scripts include the creation of tables and several SQL queries to retrieve specific information from the database.
 
-# Script Overview
+## Script Overview
 
 # Data Modeling
 Make an ERD with Quick Database Diagrams after inspecting the CSVs.
 ![sql-challenge](./QuickDBD-Employee_ERD.png)
 
-# Data Engineering
+## Data Engineering
 For each of the six CSV files, create a table schema with the necessary constraints, primary keys, foreign keys, and data types. 
 
-## Table Creation
+### Table Creation
 
 This section of the script includes the SQL commands to create tables for different entities in the employee database. The tables created are:
 
@@ -29,11 +29,11 @@ This section of the script includes the SQL commands to create tables for differ
 5. `dept_manager`: Records the managers of various departments.
 6. `salaries`: Stores salary information for employees.
 
-## Database Alteration
+### Database Alteration
 
 This section of the script includes an alteration command to set the date style for the database to "ISO, MDY". This ensures consistent date formatting.
 
-# Data Data Analysis
+## Data Data Analysis
 
 The following SQL queries are included in this script to retrieve specific information from the database:
 
@@ -53,7 +53,7 @@ The following SQL queries are included in this script to retrieve specific infor
 
 8. **Employee Last Name Frequencies**: Lists the frequency counts of all employee last names in descending order, indicating how many employees share each last name.
 
-# Instructions
+## Instructions
 
 To use these SQL scripts:
 
